@@ -1,1 +1,1 @@
-# DB_auth
+Servlet mySql JDBC simple application
